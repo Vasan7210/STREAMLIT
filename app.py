@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 # -----------------------------
 
 st.set_page_config(
-    page_title="Movie Parent Guide",
+    page_title="SAFE CINEMA HUB",
     page_icon="🎬",
     layout="wide",
 )
